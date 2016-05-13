@@ -25,6 +25,7 @@ public class Taller1AutomatasVersionfinal {
         Automata automata = new Automata();
         automata.leerNFA(nombre);
         convertNFAtoDFA conversion = new convertNFAtoDFA (automata);
+        //asdfasfd
 
         
     }
