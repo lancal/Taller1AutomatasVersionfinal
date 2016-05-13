@@ -1,0 +1,2 @@
+a b c d epsilon
+q1:a-q2,c-q1,epsilon-q2
